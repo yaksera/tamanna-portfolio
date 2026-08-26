@@ -7,7 +7,7 @@ brand palette sampled from the video itself.
 
 ```bash
 npm install
-npm run dev      # http://localhost:3000
+npm run dev      # http://localhost:3000   runit
 ```
 
 ```bash
